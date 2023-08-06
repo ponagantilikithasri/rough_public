@@ -6,7 +6,6 @@ Welcome to github
 
 program
 c
-C++
 Python
 SQL
 Html
