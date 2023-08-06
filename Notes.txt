@@ -8,3 +8,7 @@ program
 c
 C++
 Python
+SQL
+Html
+CSS
+java script
